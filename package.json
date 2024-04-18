@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@tuan149202401/sunt-accusamus-nemo",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,24 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/tuan149202401/sunt-accusamus-nemo.git"
   },
   "dependencies": {
+    "@tuan149202401/accusantium-laudantium-nihil-nobis": "^1.0.0",
+    "@tuan149202401/at-quam-incidunt": "^1.0.0",
+    "@tuan149202401/at-vitae-enim": "^1.0.0",
+    "@tuan149202401/consequuntur-aliquam-velit": "^1.0.0",
+    "@tuan149202401/facere-sequi-omnis": "^1.0.0",
+    "@tuan149202401/fuga-commodi-earum": "^1.0.0",
+    "@tuan149202401/fugiat-dolorem-tempore": "^1.0.0",
+    "@tuan149202401/maiores-error-aspernatur": "^1.0.0",
+    "@tuan149202401/molestias-incidunt-repellat": "^1.0.0",
+    "@tuan149202401/nemo-alias-harum": "^1.0.0",
+    "@tuan149202401/nisi-ipsam-sit": "^1.0.0",
+    "@tuan149202401/porro-maiores-nulla": "^1.0.0",
+    "@tuan149202401/porro-nobis-tempore": "^1.0.0",
+    "@tuan149202401/rem-facilis-repellat": "^1.0.0",
+    "@tuan149202401/ullam-quibusdam-tempora": "^1.0.0",
+    "@tuan149202401/veritatis-minus-omnis": "^1.0.0"
   }
 }
